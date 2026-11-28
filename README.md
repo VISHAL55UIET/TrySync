@@ -1,1 +1,1 @@
-tripsync
+tripsyn
